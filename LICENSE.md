@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with AppCleaner for macOS premium Script - virtualization and dark-mode, the #1 script. Includes virtualization and dark-mode for a smoother macOS
 
 
 
